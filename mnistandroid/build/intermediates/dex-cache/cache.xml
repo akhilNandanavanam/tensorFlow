@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akhil\.android\build-cache\01986f6fd9a6632befa54cc3b92265913bc6653e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Akhil\PycharmProjects\TensorFlow Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_fc5202ab916c7866be2a3562e6c4cd905d68dd18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akhil\.android\build-cache\c8a47c99e36cf30076facda66b8827c4e7b75ea0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Akhil\PycharmProjects\TensorFlow Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_08564befa664008788de102fcb4bf03f9dda5aaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akhil\.android\build-cache\fa184b57ad961d8209fe9ebdcd0f8fc775b408ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Akhil\PycharmProjects\TensorFlow Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_b709f2998f2a740565f29d562274e327b7d4dfa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akhil\.android\build-cache\8e0de221326a4f281288f733e216283617822b78\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Akhil\PycharmProjects\TensorFlow Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_5698973390856b230a8d2c08dd9190f0082ca5a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akhil\.android\build-cache\d6ca121ac7ef9b06406f6b959d388f19369ed084\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Akhil\PycharmProjects\TensorFlow Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_fa7530479769e463ef81073b0c77e387102fbc66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akhil\.android\build-cache\05e0f85a56e3f53daf27de64c3fdf1a003738a6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Akhil\PycharmProjects\TensorFlow Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_29d9bdc4f2e511ebf2eeb39f2c90787480d46ca8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akhil\.android\build-cache\dfd76a40bc032384afee226215d76bae8b1f35d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08b7bb0240c9df70b9af7c07496023df477d2640">
+        <dex dex="C:\Users\Akhil\PycharmProjects\TensorFlow Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_9003d4122e57d90f95ebb925e6d07ad87c49de96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akhil\.android\build-cache\030c3737576f01a787105705e2dd272f58e6d849\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Akhil\PycharmProjects\TensorFlow Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_ce5d041bd3fc4889f0289e4a1ba7494be3849be1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akhil\.android\build-cache\9ac9bbdce59a2f38ccf5137f4666f8a15b87da47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Akhil\PycharmProjects\TensorFlow Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_5d80af7192405f689dd4348e4d627e0b4cae0a3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akhil\.android\build-cache\0d16065d62375588df069f99144b69c57cbafe89\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Akhil\PycharmProjects\TensorFlow Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_c54b314e1cf17d1e44f5a7323216ebe32b2e7694.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akhil\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Akhil\PycharmProjects\TensorFlow Android\mnistandroid\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_428693fe1d9873dc732037f8c8e706b1f5ac18a6.jar" />
+    </item>
+
+</items>
