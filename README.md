@@ -1,5 +1,5 @@
 MAJOR PROJECT FOR JNTUH
-Title: Android APplication for Handwriting Recognition Using Machine Learning
+Title: Android Application for Handwriting Recognition Using Machine Learning
 By:
 M Mounika
 N Sai Akhil
