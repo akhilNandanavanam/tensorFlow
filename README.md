@@ -1,4 +1,4 @@
-Major Project for JNTUH.
+MAJOR PROJECT FOR JNTUH
 Title: Android APplication for Handwriting Recognition Using Machine Learning
 By:
 M Mounika
